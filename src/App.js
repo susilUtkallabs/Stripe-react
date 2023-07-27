@@ -3,7 +3,6 @@ import {
   Box,
   Card,
   CardContent,
-  CardMedia,
   Container,
   Divider,
   Grid,
