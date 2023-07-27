@@ -23,7 +23,7 @@ function App() {
         sx={{ minHeight: "100vh" }}
         className="App"
       >
-        <Grid item xs={4}>
+        <Grid item md={4}>
           <Card
             sx={{
               maxWidth: 300,
@@ -83,7 +83,7 @@ function App() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item xs={4}>
+        <Grid item md={4}>
           <Card
             sx={{
               maxWidth: 300,
@@ -143,7 +143,7 @@ function App() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item xs={4}>
+        <Grid item md={4}>
           <Card
             sx={{
               maxWidth: 300,
